@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "773129520599",
+    "project_id": "gallerieimageapp-87856",
+    "storage_bucket": "gallerieimageapp-87856.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773129520599:android:4496ce70310d66b071f792",
+        "android_client_info": {
+          "package_name": "com.example.gallerie_image_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773129520599-rl6cp4k3agnh53b37sopklc73k50de4d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYifW7aRFwADskKApPPw6DUAvAaMxpB24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773129520599-rl6cp4k3agnh53b37sopklc73k50de4d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "773129520599-i5lvntc6c4ac81r5531s4r6vqi8dbq01.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gallerieImageApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
